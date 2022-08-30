@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  SpaceXApp
 //
-//  Created by MAC on 15/12/21.
+//  Created by Kristina Urosova on 29/08/22.
 //
 
 import UIKit
