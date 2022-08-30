@@ -1,6 +1,6 @@
 # SpaceX
 
-This poject lists all the Sapce missions.
+This poject lists all the SpaceX missions.
 
 The user can select the mission and navigate to additional sources like video, Wikipedia or an article.
 
